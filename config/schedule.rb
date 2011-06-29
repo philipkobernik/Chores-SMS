@@ -20,8 +20,8 @@
 # Learn more: http://github.com/javan/whenever
 
 
-every :sunday, :at => '12pm' do
-#every 1.minutes do
+#every :sunday, :at => '12pm' do
+every 2.minutes do
   runner 'User.all.first.cycle', :environment => :development
   runner 'User.all.first.alert', :environment => :development
 end

@@ -11,6 +11,7 @@ gem 'ice_cube'
 gem 'haml'
 gem 'sass'
 gem 'whenever'
+gem 'heroku'
 
 # Use unicorn as the web server
 # gem 'unicorn'
