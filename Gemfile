@@ -14,6 +14,7 @@ gem 'whenever'
 gem 'heroku'
 gem 'rake', '0.8.7'
 gem 'yaml_db'
+gem 'taps'
 
 # Use unicorn as the web server
 # gem 'unicorn'

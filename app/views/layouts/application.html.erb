@@ -1,14 +1,45 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ChoresSms</title>
+  <title>Twelve-Twelve</title>
   <%= stylesheet_link_tag :all %>
   <%= javascript_include_tag :defaults %>
   <%= csrf_meta_tag %>
 </head>
 <body>
+    <div id="page">
+      <div id="sidebar">
+        <ul id="sidebar-items">
+          <li>
+            <h3>Links and shit</h3>
+            <ul class="links">
+              <li><a href="http://www2.seattle.gov/util/services/calendar/DrawCalender.asp?PC=156120&FC=A&D=2%20">Garbage/compost/recycle pickup schedule for 1212</a></li>
+              <li><a href="http://www.wikihow.com/Clean-a-Bathroom">How to clean a bathroom</a></li>
+              <!-- <li><a href="http://www.stretcher.com/stories/03/03jul21b.cfm">Tips for fruit flies</a></li> -->
+            </ul>
+          </li>
+        </ul>
+      </div>
 
-<%= yield %>
+      <div id="content">
+        <div id="header">
+          <h1>1212</h1>
+		<br />
+          <h2>Humpable <em>and</em> bumpable</h2>
+        </div>
 
-</body>
+        <div id="getting-started">
+          <h1>Chores active through Sunday</h1>
+		  <%= yield %>
+          
+        </div>
+      </div>
+
+      <div id="footer">&nbsp;</div>
+    </div>
+  </body>
 </html>
+
+
+
+
