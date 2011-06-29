@@ -21,8 +21,8 @@
 
 
 #every :sunday, :at => '12pm' do
-every 2.minutes do
-  runner 'User.all.first.cycle', :environment => :development
-  runner 'User.all.first.alert', :environment => :development
-end
+#every 2.minutes do
+#  runner 'User.all.first.cycle', :environment => :development
+#  runner 'User.all.first.alert', :environment => :development
+#end
 
