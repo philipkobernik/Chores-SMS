@@ -1,0 +1,25 @@
+<%= form_for(@beep) do |f| %>
+  <% if @beep.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@beep.errors.count, "error") %> prohibited this beep from being saved:</h2>
+
+      <ul>
+      <% @beep.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :phone %><br />
+    <%= f.text_field :phone %>
+  </div>
+  <div class="field">
+    <%= f.label :message %><br />
+    <%= f.text_area :message %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

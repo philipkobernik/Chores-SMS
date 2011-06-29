@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Phone:</b>
+  <%= @beep.phone %>
+</p>
+
+<p>
+  <b>Message:</b>
+  <%= @beep.message %>
+</p>
+
+
+<%= link_to 'Edit', edit_beep_path(@beep) %> |
+<%= link_to 'Back', beeps_path %>
