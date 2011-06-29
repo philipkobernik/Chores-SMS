@@ -1,0 +1,1589 @@
+
+---
+beeps:
+  columns:
+  - id
+  - phone
+  - message
+  - created_at
+  - updated_at
+  records: 
+---
+  - - 8
+    - '2065539785'
+    - Test it!
+    - '2011-06-26 21:01:01.425860'
+    - '2011-06-26 21:01:01.425860'
+  - - 9
+    - Whatup Sun
+    - '192983'
+    - '2011-06-27 02:04:33.677399'
+    - '2011-06-27 02:04:33.677399'
+  - - 10
+    - '9529058527'
+    - ! "YEAH. AWESOME. TITTIES! (*)(*)\r\n\r\nYEAH! (Y) ASS!\r\n\r\nLINE BREAK. \r\n\r\nPOWER
+      \ BALL!\r\n\r\n$"
+    - '2011-06-27 04:31:47.016037'
+    - '2011-06-27 04:31:47.016037'
+  - - 11
+    - '9529058527'
+    - YEAH! AWESOME! AMAZING. ITS LIKE DRINKING FROM A PUSSY WATERFALL.
+    - '2011-06-27 04:33:16.299795'
+    - '2011-06-27 04:33:16.299795'
+  - - 12
+    - '2065539785'
+    - YEAH! AWESOME! AMAZING. ITS LIKE DRINKING FROM A PUSSY WATERFALL.
+    - '2011-06-27 04:34:13.473286'
+    - '2011-06-27 04:34:13.473286'
+  - - 13
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-27 20:58:33.179803'
+    - '2011-06-27 20:58:33.179803'
+  - - 14
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-27 20:59:18.160417'
+    - '2011-06-27 20:59:18.160417'
+  - - 15
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-27 21:00:01.735344'
+    - '2011-06-27 21:00:01.735344'
+  - - 16
+    - '2065539785'
+    - yo
+    - '2011-06-27 21:05:31.634310'
+    - '2011-06-27 21:05:31.634310'
+  - - 17
+    - '2065539785'
+    - yo
+    - '2011-06-27 21:50:01.488837'
+    - '2011-06-27 21:50:01.488837'
+  - - 18
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-27 21:56:01.337356'
+    - '2011-06-27 21:56:01.337356'
+  - - 19
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 03:12:24.405261'
+    - '2011-06-28 03:12:24.405261'
+  - - 20
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 04:12:01.929963'
+    - '2011-06-28 04:12:01.929963'
+  - - 21
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 04:52:04.641253'
+    - '2011-06-28 04:52:04.641253'
+  - - 22
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 04:54:04.841109'
+    - '2011-06-28 04:54:04.841109'
+  - - 23
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 04:56:04.809225'
+    - '2011-06-28 04:56:04.809225'
+  - - 24
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 04:58:04.932633'
+    - '2011-06-28 04:58:04.932633'
+  - - 25
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 05:00:04.558968'
+    - '2011-06-28 05:00:04.558968'
+  - - 26
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 05:10:04.967092'
+    - '2011-06-28 05:10:04.967092'
+  - - 27
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 05:20:04.658893'
+    - '2011-06-28 05:20:04.658893'
+  - - 28
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 05:38:04.261356'
+    - '2011-06-28 05:38:04.261356'
+  - - 29
+    - '2065539785'
+    - Clean up living and dining rooms
+    - '2011-06-28 05:38:05.429177'
+    - '2011-06-28 05:38:05.429177'
+  - - 30
+    - '2065539785'
+    - Take out the garbage and recycling
+    - '2011-06-28 05:38:06.227284'
+    - '2011-06-28 05:38:06.227284'
+  - - 31
+    - '2065539785'
+    - Clean up the kitchen
+    - '2011-06-28 05:38:07.133525'
+    - '2011-06-28 05:38:07.133525'
+  - - 32
+    - '2065539785'
+    - Tidy and clean the porch
+    - '2011-06-28 05:38:07.921264'
+    - '2011-06-28 05:38:07.921264'
+  - - 33
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 05:40:05.606616'
+    - '2011-06-28 05:40:05.606616'
+  - - 34
+    - '2065539785'
+    - Clean up living and dining rooms
+    - '2011-06-28 05:40:06.475411'
+    - '2011-06-28 05:40:06.475411'
+  - - 35
+    - '2065539785'
+    - Take out the garbage and recycling
+    - '2011-06-28 05:40:07.393416'
+    - '2011-06-28 05:40:07.393416'
+  - - 36
+    - '2065539785'
+    - Clean up the kitchen
+    - '2011-06-28 05:40:08.201171'
+    - '2011-06-28 05:40:08.201171'
+  - - 37
+    - '2065539785'
+    - Tidy and clean the porch
+    - '2011-06-28 05:40:08.963724'
+    - '2011-06-28 05:40:08.963724'
+  - - 38
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 05:42:05.132409'
+    - '2011-06-28 05:42:05.132409'
+  - - 39
+    - '2065539785'
+    - Clean up living and dining rooms
+    - '2011-06-28 05:42:05.936041'
+    - '2011-06-28 05:42:05.936041'
+  - - 40
+    - '2065539785'
+    - Take out the garbage and recycling
+    - '2011-06-28 05:42:06.983771'
+    - '2011-06-28 05:42:06.983771'
+  - - 41
+    - '2065539785'
+    - Clean up the kitchen
+    - '2011-06-28 05:42:07.869414'
+    - '2011-06-28 05:42:07.869414'
+  - - 42
+    - '2065539785'
+    - Tidy and clean the porch
+    - '2011-06-28 05:42:08.634877'
+    - '2011-06-28 05:42:08.634877'
+  - - 43
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 05:44:04.278860'
+    - '2011-06-28 05:44:04.278860'
+  - - 44
+    - '2065539785'
+    - Clean up living and dining rooms
+    - '2011-06-28 05:44:05.084867'
+    - '2011-06-28 05:44:05.084867'
+  - - 45
+    - '2065539785'
+    - Take out the garbage and recycling
+    - '2011-06-28 05:44:05.787871'
+    - '2011-06-28 05:44:05.787871'
+  - - 46
+    - '2065539785'
+    - Clean up the kitchen
+    - '2011-06-28 05:44:06.565721'
+    - '2011-06-28 05:44:06.565721'
+  - - 47
+    - '2065539785'
+    - Tidy and clean the porch
+    - '2011-06-28 05:44:07.358006'
+    - '2011-06-28 05:44:07.358006'
+  - - 48
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 05:46:03.956477'
+    - '2011-06-28 05:46:03.956477'
+  - - 49
+    - '2065539785'
+    - Clean up living and dining rooms
+    - '2011-06-28 05:46:04.744461'
+    - '2011-06-28 05:46:04.744461'
+  - - 50
+    - '2065539785'
+    - Take out the garbage and recycling
+    - '2011-06-28 05:46:05.572856'
+    - '2011-06-28 05:46:05.572856'
+  - - 51
+    - '2065539785'
+    - Clean up the kitchen
+    - '2011-06-28 05:46:06.400503'
+    - '2011-06-28 05:46:06.400503'
+  - - 52
+    - '2065539785'
+    - Tidy and clean the porch
+    - '2011-06-28 05:46:07.237855'
+    - '2011-06-28 05:46:07.237855'
+  - - 53
+    - '2065539785'
+    - Clean Bathroom
+    - '2011-06-28 05:48:04.012722'
+    - '2011-06-28 05:48:04.012722'
+  - - 54
+    - '2065539785'
+    - Clean up living and dining rooms
+    - '2011-06-28 05:48:04.773085'
+    - '2011-06-28 05:48:04.773085'
+  - - 55
+    - '2065539785'
+    - Take out the garbage and recycling
+    - '2011-06-28 05:48:05.600420'
+    - '2011-06-28 05:48:05.600420'
+  - - 56
+    - '2065539785'
+    - Clean up the kitchen
+    - '2011-06-28 05:48:06.396871'
+    - '2011-06-28 05:48:06.396871'
+  - - 57
+    - '2065539785'
+    - Tidy and clean the porch
+    - '2011-06-28 05:48:07.267429'
+    - '2011-06-28 05:48:07.267429'
+  - - 58
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your chore this week: Clean up
+      living and dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:26:27.510571'
+    - '2011-06-28 06:26:27.510571'
+  - - 59
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your chore this week: Take out the
+      garbage and recycling. Go get ''em tiger. Thanks 4 kicking ass. <3 PS don''t
+      forget to take the garbage out tonight!'
+    - '2011-06-28 06:26:28.821151'
+    - '2011-06-28 06:26:28.821151'
+  - - 60
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your chore this week: Clean up
+      the kitchen. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:26:29.580737'
+    - '2011-06-28 06:26:29.580737'
+  - - 61
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your chore this week: Tidy and
+      clean the porch. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:26:30.239582'
+    - '2011-06-28 06:26:30.239582'
+  - - 62
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your chore this week: This is your
+      week off of chores, huzzah!. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:26:30.881373'
+    - '2011-06-28 06:26:30.881373'
+  - - 63
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your chore this week: Clean Bathroom.
+      Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:26:31.586549'
+    - '2011-06-28 06:26:31.586549'
+  - - 64
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your chore this week: Take out
+      the garbage and recycling. Go get ''em tiger. Garbage should go out 2night!
+      <3'
+    - '2011-06-28 06:35:03.127931'
+    - '2011-06-28 06:35:03.127931'
+  - - 65
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your chore this week: Clean up the
+      kitchen. Go get ''em tiger. Garbage should go out 2night! <3'
+    - '2011-06-28 06:35:04.341305'
+    - '2011-06-28 06:35:04.341305'
+  - - 66
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your chore this week: Tidy and
+      clean the porch. Go get ''em tiger. Garbage should go out 2night! <3'
+    - '2011-06-28 06:35:05.052579'
+    - '2011-06-28 06:35:05.052579'
+  - - 67
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your chore this week: This is your
+      week off of chores, huzzah!. Go get ''em tiger. Garbage should go out 2night!
+      <3'
+    - '2011-06-28 06:35:05.716975'
+    - '2011-06-28 06:35:05.716975'
+  - - 68
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your chore this week: Clean Bathroom.
+      Go get ''em tiger. Garbage should go out 2night! <3'
+    - '2011-06-28 06:35:06.385348'
+    - '2011-06-28 06:35:06.385348'
+  - - 69
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your chore this week: Clean up
+      living and dining rooms. Go get ''em tiger. Garbage should go out 2night! <3'
+    - '2011-06-28 06:35:07.133384'
+    - '2011-06-28 06:35:07.133384'
+  - - 70
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your chore this week: This is
+      your week off of chores, huzzah!. Go get ''em tiger. Garbage should go out 2night!
+      <3'
+    - '2011-06-28 06:39:16.413260'
+    - '2011-06-28 06:39:16.413260'
+  - - 71
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your chore this week: Clean Bathroom.
+      Go get ''em tiger. Garbage should go out 2night! <3'
+    - '2011-06-28 06:39:17.499824'
+    - '2011-06-28 06:39:17.499824'
+  - - 72
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your chore this week: Clean up
+      living and dining rooms. Go get ''em tiger. Garbage should go out 2night! <3'
+    - '2011-06-28 06:39:18.239592'
+    - '2011-06-28 06:39:18.239592'
+  - - 73
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your chore this week: Take out
+      the garbage and recycling. Go get ''em tiger. Garbage should go out 2night!
+      <3'
+    - '2011-06-28 06:39:18.955945'
+    - '2011-06-28 06:39:18.955945'
+  - - 74
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your chore this week: Clean up the
+      kitchen. Go get ''em tiger. Garbage should go out 2night! <3'
+    - '2011-06-28 06:39:19.654629'
+    - '2011-06-28 06:39:19.654629'
+  - - 75
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your chore this week: Tidy and
+      clean the porch. Go get ''em tiger. Garbage should go out 2night! <3'
+    - '2011-06-28 06:39:20.319265'
+    - '2011-06-28 06:39:20.319265'
+  - - 76
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your chore this week: Take out
+      the garbage and recycling. Go get ''em tiger. Garbage should go out 2night!
+      <3'
+    - '2011-06-28 06:47:57.616434'
+    - '2011-06-28 06:47:57.616434'
+  - - 77
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your chore this week: Clean up the
+      kitchen. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:47:58.705312'
+    - '2011-06-28 06:47:58.705312'
+  - - 78
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your chore this week: Tidy and
+      clean the porch. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:47:59.509527'
+    - '2011-06-28 06:47:59.509527'
+  - - 79
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your chore this week: This is your
+      week off of chores, huzzah!. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:48:00.257244'
+    - '2011-06-28 06:48:00.257244'
+  - - 80
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your chore this week: Clean Bathroom.
+      Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:48:00.949019'
+    - '2011-06-28 06:48:00.949019'
+  - - 81
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your chore this week: Clean up
+      living and dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:48:01.670580'
+    - '2011-06-28 06:48:01.670580'
+  - - 82
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:59:41.745517'
+    - '2011-06-28 06:59:41.745517'
+  - - 83
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: PSYCHE. THIS
+      IS YOUR WEEK OFF. GET DRUNK.. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:59:42.881766'
+    - '2011-06-28 06:59:42.881766'
+  - - 84
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:59:43.630104'
+    - '2011-06-28 06:59:43.630104'
+  - - 85
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:59:44.363277'
+    - '2011-06-28 06:59:44.363277'
+  - - 86
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:59:45.072962'
+    - '2011-06-28 06:59:45.072962'
+  - - 87
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 06:59:45.798798'
+    - '2011-06-28 06:59:45.798798'
+  - - 88
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:01:29.390099'
+    - '2011-06-28 07:01:29.390099'
+  - - 89
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:01:30.289986'
+    - '2011-06-28 07:01:30.289986'
+  - - 90
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:01:31.002874'
+    - '2011-06-28 07:01:31.002874'
+  - - 91
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:01:31.709279'
+    - '2011-06-28 07:01:31.709279'
+  - - 92
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:01:32.441780'
+    - '2011-06-28 07:01:32.441780'
+  - - 93
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:01:33.136989'
+    - '2011-06-28 07:01:33.136989'
+  - - 94
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:02:55.707542'
+    - '2011-06-28 07:02:55.707542'
+  - - 95
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:02:56.448389'
+    - '2011-06-28 07:02:56.448389'
+  - - 96
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Keep the
+      kitchen swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:02:57.150212'
+    - '2011-06-28 07:02:57.150212'
+  - - 97
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:02:57.861566'
+    - '2011-06-28 07:02:57.861566'
+  - - 98
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:02:58.641766'
+    - '2011-06-28 07:02:58.641766'
+  - - 99
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:02:59.360395'
+    - '2011-06-28 07:02:59.360395'
+  - - 100
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:12:06.704097'
+    - '2011-06-28 07:12:06.704097'
+  - - 101
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:12:08.398303'
+    - '2011-06-28 07:12:08.398303'
+  - - 102
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Keep the
+      kitchen swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:12:09.345834'
+    - '2011-06-28 07:12:09.345834'
+  - - 103
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:12:10.082435'
+    - '2011-06-28 07:12:10.082435'
+  - - 104
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:12:10.797763'
+    - '2011-06-28 07:12:10.797763'
+  - - 105
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:12:11.463481'
+    - '2011-06-28 07:12:11.463481'
+  - - 106
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Take out
+      garbage, recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking
+      ass. <3'
+    - '2011-06-28 07:13:05.341761'
+    - '2011-06-28 07:13:05.341761'
+  - - 107
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:13:06.970595'
+    - '2011-06-28 07:13:06.970595'
+  - - 108
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:13:07.772899'
+    - '2011-06-28 07:13:07.772899'
+  - - 109
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:13:08.446930'
+    - '2011-06-28 07:13:08.446930'
+  - - 110
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:13:09.146901'
+    - '2011-06-28 07:13:09.146901'
+  - - 111
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:13:09.808368'
+    - '2011-06-28 07:13:09.808368'
+  - - 112
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Keep the
+      kitchen swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:14:08.059061'
+    - '2011-06-28 07:14:08.059061'
+  - - 113
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:14:09.639438'
+    - '2011-06-28 07:14:09.639438'
+  - - 114
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:14:10.452001'
+    - '2011-06-28 07:14:10.452001'
+  - - 115
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:14:11.125550'
+    - '2011-06-28 07:14:11.125550'
+  - - 116
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Sweep and tidy
+      living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:14:11.827192'
+    - '2011-06-28 07:14:11.827192'
+  - - 117
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:14:12.486051'
+    - '2011-06-28 07:14:12.486051'
+  - - 118
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:15:05.707381'
+    - '2011-06-28 07:15:05.707381'
+  - - 119
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:15:06.773723'
+    - '2011-06-28 07:15:06.773723'
+  - - 120
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:15:07.544536'
+    - '2011-06-28 07:15:07.544536'
+  - - 121
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:15:08.247273'
+    - '2011-06-28 07:15:08.247273'
+  - - 122
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:15:08.913808'
+    - '2011-06-28 07:15:08.913808'
+  - - 123
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:15:09.633763'
+    - '2011-06-28 07:15:09.633763'
+  - - 124
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:16:06.292185'
+    - '2011-06-28 07:16:06.292185'
+  - - 125
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:16:07.381642'
+    - '2011-06-28 07:16:07.381642'
+  - - 126
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:16:08.105870'
+    - '2011-06-28 07:16:08.105870'
+  - - 127
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:16:08.811534'
+    - '2011-06-28 07:16:08.811534'
+  - - 128
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:16:09.510724'
+    - '2011-06-28 07:16:09.510724'
+  - - 129
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:16:10.202265'
+    - '2011-06-28 07:16:10.202265'
+  - - 130
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:17:05.576972'
+    - '2011-06-28 07:17:05.576972'
+  - - 131
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:17:06.602583'
+    - '2011-06-28 07:17:06.602583'
+  - - 132
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Keep the
+      kitchen swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:17:07.357770'
+    - '2011-06-28 07:17:07.357770'
+  - - 133
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:17:08.032601'
+    - '2011-06-28 07:17:08.032601'
+  - - 134
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:17:08.758889'
+    - '2011-06-28 07:17:08.758889'
+  - - 135
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:17:09.491235'
+    - '2011-06-28 07:17:09.491235'
+  - - 136
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:18:06.215936'
+    - '2011-06-28 07:18:06.215936'
+  - - 137
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:18:07.337388'
+    - '2011-06-28 07:18:07.337388'
+  - - 138
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Keep the
+      kitchen swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:18:08.147488'
+    - '2011-06-28 07:18:08.147488'
+  - - 139
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:18:08.801145'
+    - '2011-06-28 07:18:08.801145'
+  - - 140
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:18:09.491335'
+    - '2011-06-28 07:18:09.491335'
+  - - 141
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:18:10.191432'
+    - '2011-06-28 07:18:10.191432'
+  - - 142
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Take out
+      garbage, recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking
+      ass. <3'
+    - '2011-06-28 07:19:04.965929'
+    - '2011-06-28 07:19:04.965929'
+  - - 143
+    - '2065539785'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:19:05.929814'
+    - '2011-06-28 07:19:05.929814'
+  - - 144
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:19:06.680353'
+    - '2011-06-28 07:19:06.680353'
+  - - 145
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:19:07.404603'
+    - '2011-06-28 07:19:07.404603'
+  - - 146
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:19:08.097483'
+    - '2011-06-28 07:19:08.097483'
+  - - 147
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:19:08.768530'
+    - '2011-06-28 07:19:08.768530'
+  - - 148
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Take out
+      garbage, recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking
+      ass. <3'
+    - '2011-06-28 07:20:05.838015'
+    - '2011-06-28 07:20:05.838015'
+  - - 149
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:20:06.913282'
+    - '2011-06-28 07:20:06.913282'
+  - - 150
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:20:07.650357'
+    - '2011-06-28 07:20:07.650357'
+  - - 151
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:20:08.388639'
+    - '2011-06-28 07:20:08.388639'
+  - - 152
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:20:09.081397'
+    - '2011-06-28 07:20:09.081397'
+  - - 153
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:20:09.776123'
+    - '2011-06-28 07:20:09.776123'
+  - - 154
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Keep the
+      kitchen swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:21:05.003082'
+    - '2011-06-28 07:21:05.003082'
+  - - 155
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:21:05.806045'
+    - '2011-06-28 07:21:05.806045'
+  - - 156
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:21:06.522975'
+    - '2011-06-28 07:21:06.522975'
+  - - 157
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:21:07.203560'
+    - '2011-06-28 07:21:07.203560'
+  - - 158
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:21:07.973639'
+    - '2011-06-28 07:21:07.973639'
+  - - 159
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:21:08.684534'
+    - '2011-06-28 07:21:08.684534'
+  - - 160
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:22:05.177165'
+    - '2011-06-28 07:22:05.177165'
+  - - 161
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:22:06.106566'
+    - '2011-06-28 07:22:06.106566'
+  - - 162
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:22:06.837785'
+    - '2011-06-28 07:22:06.837785'
+  - - 163
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:22:07.574305'
+    - '2011-06-28 07:22:07.574305'
+  - - 164
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:22:08.271904'
+    - '2011-06-28 07:22:08.271904'
+  - - 165
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:22:08.953640'
+    - '2011-06-28 07:22:08.953640'
+  - - 166
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:23:05.296356'
+    - '2011-06-28 07:23:05.296356'
+  - - 167
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:23:06.148732'
+    - '2011-06-28 07:23:06.148732'
+  - - 168
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:23:06.795607'
+    - '2011-06-28 07:23:06.795607'
+  - - 169
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:23:07.577008'
+    - '2011-06-28 07:23:07.577008'
+  - - 170
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:23:08.254652'
+    - '2011-06-28 07:23:08.254652'
+  - - 171
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:23:08.999737'
+    - '2011-06-28 07:23:08.999737'
+  - - 172
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:24:05.224906'
+    - '2011-06-28 07:24:05.224906'
+  - - 173
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:24:06.032006'
+    - '2011-06-28 07:24:06.032006'
+  - - 174
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:24:06.726845'
+    - '2011-06-28 07:24:06.726845'
+  - - 175
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:24:07.456354'
+    - '2011-06-28 07:24:07.456354'
+  - - 176
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:24:08.125302'
+    - '2011-06-28 07:24:08.125302'
+  - - 177
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:24:08.813980'
+    - '2011-06-28 07:24:08.813980'
+  - - 178
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:25:05.017225'
+    - '2011-06-28 07:25:05.017225'
+  - - 179
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:25:05.905516'
+    - '2011-06-28 07:25:05.905516'
+  - - 180
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:25:06.606441'
+    - '2011-06-28 07:25:06.606441'
+  - - 181
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:25:07.352812'
+    - '2011-06-28 07:25:07.352812'
+  - - 182
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:25:08.045563'
+    - '2011-06-28 07:25:08.045563'
+  - - 183
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:25:08.753551'
+    - '2011-06-28 07:25:08.753551'
+  - - 184
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:26:05.094134'
+    - '2011-06-28 07:26:05.094134'
+  - - 185
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:26:06.787206'
+    - '2011-06-28 07:26:06.787206'
+  - - 186
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:26:07.384380'
+    - '2011-06-28 07:26:07.384380'
+  - - 187
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:26:08.000100'
+    - '2011-06-28 07:26:08.000100'
+  - - 188
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:26:08.604739'
+    - '2011-06-28 07:26:08.604739'
+  - - 189
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:26:09.601813'
+    - '2011-06-28 07:26:09.601813'
+  - - 190
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:27:05.992698'
+    - '2011-06-28 07:27:05.992698'
+  - - 191
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:27:07.650583'
+    - '2011-06-28 07:27:07.650583'
+  - - 192
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Take out
+      garbage, recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking
+      ass. <3'
+    - '2011-06-28 07:27:08.794764'
+    - '2011-06-28 07:27:08.794764'
+  - - 193
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:27:09.539878'
+    - '2011-06-28 07:27:09.539878'
+  - - 194
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:27:10.144906'
+    - '2011-06-28 07:27:10.144906'
+  - - 195
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:27:10.895719'
+    - '2011-06-28 07:27:10.895719'
+  - - 196
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:28:05.179560'
+    - '2011-06-28 07:28:05.179560'
+  - - 197
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Sweep and tidy
+      living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:28:06.454875'
+    - '2011-06-28 07:28:06.454875'
+  - - 198
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Keep the
+      kitchen swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:28:07.422830'
+    - '2011-06-28 07:28:07.422830'
+  - - 199
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:28:08.486620'
+    - '2011-06-28 07:28:08.486620'
+  - - 200
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:28:09.887827'
+    - '2011-06-28 07:28:09.887827'
+  - - 201
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:28:11.494353'
+    - '2011-06-28 07:28:11.494353'
+  - - 202
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Take out
+      garbage, recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking
+      ass. <3'
+    - '2011-06-28 07:29:06.287460'
+    - '2011-06-28 07:29:06.287460'
+  - - 203
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:29:07.768475'
+    - '2011-06-28 07:29:07.768475'
+  - - 204
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:29:08.536565'
+    - '2011-06-28 07:29:08.536565'
+  - - 205
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:29:09.796012'
+    - '2011-06-28 07:29:09.796012'
+  - - 206
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:29:11.275761'
+    - '2011-06-28 07:29:11.275761'
+  - - 207
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-28 07:29:12.304715'
+    - '2011-06-28 07:29:12.304715'
+  - - 208
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:24:15.428222'
+    - '2011-06-29 18:24:15.428222'
+  - - 209
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:24:19.731821'
+    - '2011-06-29 18:24:19.731821'
+  - - 210
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:24:20.557557'
+    - '2011-06-29 18:24:20.557557'
+  - - 211
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:24:21.345595'
+    - '2011-06-29 18:24:21.345595'
+  - - 212
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:24:22.165309'
+    - '2011-06-29 18:24:22.165309'
+  - - 213
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:24:23.022589'
+    - '2011-06-29 18:24:23.022589'
+  - - 214
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:26:06.573871'
+    - '2011-06-29 18:26:06.573871'
+  - - 215
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Sweep and tidy
+      living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:26:08.494908'
+    - '2011-06-29 18:26:08.494908'
+  - - 216
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Take out
+      garbage, recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking
+      ass. <3'
+    - '2011-06-29 18:26:09.350205'
+    - '2011-06-29 18:26:09.350205'
+  - - 217
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:26:10.265254'
+    - '2011-06-29 18:26:10.265254'
+  - - 218
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:26:11.066375'
+    - '2011-06-29 18:26:11.066375'
+  - - 219
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:26:11.807630'
+    - '2011-06-29 18:26:11.807630'
+  - - 220
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:28:06.298509'
+    - '2011-06-29 18:28:06.298509'
+  - - 221
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:28:07.806318'
+    - '2011-06-29 18:28:07.806318'
+  - - 222
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Keep the
+      kitchen swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:28:08.682564'
+    - '2011-06-29 18:28:08.682564'
+  - - 223
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:28:09.421611'
+    - '2011-06-29 18:28:09.421611'
+  - - 224
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:28:10.279061'
+    - '2011-06-29 18:28:10.279061'
+  - - 225
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:28:11.032398'
+    - '2011-06-29 18:28:11.032398'
+  - - 226
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Take out
+      garbage, recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking
+      ass. <3'
+    - '2011-06-29 18:30:07.474088'
+    - '2011-06-29 18:30:07.474088'
+  - - 227
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:30:08.781918'
+    - '2011-06-29 18:30:08.781918'
+  - - 228
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:30:09.520260'
+    - '2011-06-29 18:30:09.520260'
+  - - 229
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:30:10.412760'
+    - '2011-06-29 18:30:10.412760'
+  - - 230
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:30:11.228623'
+    - '2011-06-29 18:30:11.228623'
+  - - 231
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:30:12.139927'
+    - '2011-06-29 18:30:12.139927'
+  - - 232
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Tidy and
+      sweep the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:32:05.851363'
+    - '2011-06-29 18:32:05.851363'
+  - - 233
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:32:06.924613'
+    - '2011-06-29 18:32:06.924613'
+  - - 234
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:32:07.683038'
+    - '2011-06-29 18:32:07.683038'
+  - - 235
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:32:08.455630'
+    - '2011-06-29 18:32:08.455630'
+  - - 236
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:32:09.268947'
+    - '2011-06-29 18:32:09.268947'
+  - - 237
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:32:10.028722'
+    - '2011-06-29 18:32:10.028722'
+  - - 238
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:34:07.780310'
+    - '2011-06-29 18:34:07.780310'
+  - - 239
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:34:08.975287'
+    - '2011-06-29 18:34:08.975287'
+  - - 240
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:34:09.890830'
+    - '2011-06-29 18:34:09.890830'
+  - - 241
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:34:10.729745'
+    - '2011-06-29 18:34:10.729745'
+  - - 242
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:34:11.519930'
+    - '2011-06-29 18:34:11.519930'
+  - - 243
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:34:12.327516'
+    - '2011-06-29 18:34:12.327516'
+  - - 244
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:36:05.732847'
+    - '2011-06-29 18:36:05.732847'
+  - - 245
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Clean the mighty
+      bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:36:06.615988'
+    - '2011-06-29 18:36:06.615988'
+  - - 246
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:36:07.421142'
+    - '2011-06-29 18:36:07.421142'
+  - - 247
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:36:08.167299'
+    - '2011-06-29 18:36:08.167299'
+  - - 248
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:36:08.941192'
+    - '2011-06-29 18:36:08.941192'
+  - - 249
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:36:09.842447'
+    - '2011-06-29 18:36:09.842447'
+  - - 250
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:38:06.923003'
+    - '2011-06-29 18:38:06.923003'
+  - - 251
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Sweep and tidy
+      living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:38:08.462151'
+    - '2011-06-29 18:38:08.462151'
+  - - 252
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Take out
+      garbage, recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking
+      ass. <3'
+    - '2011-06-29 18:38:09.410145'
+    - '2011-06-29 18:38:09.410145'
+  - - 253
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Keep the kitchen
+      swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:38:10.153252'
+    - '2011-06-29 18:38:10.153252'
+  - - 254
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:38:10.997174'
+    - '2011-06-29 18:38:10.997174'
+  - - 255
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Get drunk
+      and chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:38:11.783025'
+    - '2011-06-29 18:38:11.783025'
+  - - 256
+    - '2065539785'
+    - ! 'Hello Philip, this is the 1212 chorechart. Your duty this week: Sweep and
+      tidy living & dining rooms. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:40:06.559909'
+    - '2011-06-29 18:40:06.559909'
+  - - 257
+    - '0'
+    - ! 'Hello Sean, this is the 1212 chorechart. Your duty this week: Take out garbage,
+      recycling, and compost (2NIGHT). Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:40:07.822966'
+    - '2011-06-29 18:40:07.822966'
+  - - 258
+    - '0'
+    - ! 'Hello Julieta, this is the 1212 chorechart. Your duty this week: Keep the
+      kitchen swept and tidy. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:40:08.909066'
+    - '2011-06-29 18:40:08.909066'
+  - - 259
+    - '0'
+    - ! 'Hello Laura, this is the 1212 chorechart. Your duty this week: Tidy and sweep
+      the porch and steps. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:40:09.903852'
+    - '2011-06-29 18:40:09.903852'
+  - - 260
+    - '0'
+    - ! 'Hello Paul, this is the 1212 chorechart. Your duty this week: Get drunk and
+      chill the fuck out. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:40:10.729746'
+    - '2011-06-29 18:40:10.729746'
+  - - 261
+    - '0'
+    - ! 'Hello Julia, this is the 1212 chorechart. Your duty this week: Clean the
+      mighty bathroom. Go get ''em tiger. Thanks 4 kicking ass. <3'
+    - '2011-06-29 18:40:11.579951'
+    - '2011-06-29 18:40:11.579951'
+
+---
+users:
+  columns:
+  - id
+  - name
+  - phone
+  - chore_id
+  - created_at
+  - updated_at
+  records: 
+---
+  - - 1
+    - Philip
+    - '2065539785'
+    - 3
+    - '2011-06-27 20:26:27.852066'
+    - '2011-06-29 18:40:06.449204'
+  - - 2
+    - Sean
+    - '0'
+    - 4
+    - '2011-06-28 00:36:53.309625'
+    - '2011-06-29 18:40:06.519012'
+  - - 3
+    - Julieta
+    - '0'
+    - 5
+    - '2011-06-28 00:37:11.783123'
+    - '2011-06-29 18:40:06.540324'
+  - - 4
+    - Laura
+    - '0'
+    - 6
+    - '2011-06-28 00:37:24.244844'
+    - '2011-06-29 18:40:06.544718'
+  - - 5
+    - Paul
+    - '0'
+    - 1
+    - '2011-06-28 00:38:16.518388'
+    - '2011-06-29 18:40:06.549634'
+  - - 6
+    - Julia
+    - '3608150919'
+    - 2
+    - '2011-06-28 00:38:36.466691'
+    - '2011-06-29 18:51:01.510601'
+
+---
+chores:
+  columns:
+  - id
+  - name
+  - notifyTwice
+  - created_at
+  - updated_at
+  records: 
+---
+  - - 1
+    - Clean the mighty bathroom
+    - false
+    - '2011-06-27 20:23:23.321273'
+    - '2011-06-28 06:50:16.477048'
+  - - 2
+    - Sweep and tidy living & dining rooms
+    - true
+    - '2011-06-27 20:24:13.277376'
+    - '2011-06-28 06:51:04.948792'
+  - - 3
+    - Take out garbage, recycling, and compost (2NIGHT)
+    - false
+    - '2011-06-27 20:24:43.886323'
+    - '2011-06-28 06:58:36.312428'
+  - - 4
+    - Keep the kitchen swept and tidy
+    - true
+    - '2011-06-27 20:24:59.755314'
+    - '2011-06-28 06:55:50.522157'
+  - - 5
+    - Tidy and sweep the porch and steps
+    - true
+    - '2011-06-27 20:25:45.178427'
+    - '2011-06-28 06:56:21.128714'
+  - - 6
+    - Get drunk and chill the fuck out
+    - false
+    - '2011-06-28 05:57:35.761216'
+    - '2011-06-28 07:00:58.387014'
