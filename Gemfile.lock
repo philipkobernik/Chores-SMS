@@ -84,6 +84,7 @@ GEM
     whenever (0.6.8)
       aaronh-chronic (>= 0.3.9)
       activesupport (>= 2.3.4)
+    yaml_db (0.2.1)
 
 PLATFORMS
   ruby
@@ -98,3 +99,4 @@ DEPENDENCIES
   sqlite3
   twiliolib
   whenever
+  yaml_db
