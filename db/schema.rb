@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110627022751) do
+ActiveRecord::Schema.define(:version => 20110629210550) do
 
   create_table "beeps", :force => true do |t|
     t.string   "phone"
@@ -24,6 +24,7 @@ ActiveRecord::Schema.define(:version => 20110627022751) do
     t.boolean  "notifyTwice"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text     "description"
   end
 
   create_table "users", :force => true do |t|
