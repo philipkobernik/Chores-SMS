@@ -40,7 +40,6 @@ GEM
       rest-client (~> 1.6.1)
       term-ansicolor (~> 1.0.5)
     i18n (0.5.0)
-    ice_cube (0.6.8)
     launchy (0.4.0)
       configuration (>= 0.0.5)
       rake (>= 0.8.1)
@@ -95,7 +94,6 @@ GEM
     whenever (0.6.8)
       aaronh-chronic (>= 0.3.9)
       activesupport (>= 2.3.4)
-    yaml_db (0.2.1)
 
 PLATFORMS
   ruby
@@ -103,7 +101,6 @@ PLATFORMS
 DEPENDENCIES
   haml
   heroku
-  ice_cube
   rails (= 3.0.7)
   rake (= 0.8.7)
   sass
@@ -111,4 +108,3 @@ DEPENDENCIES
   taps
   twiliolib
   whenever
-  yaml_db

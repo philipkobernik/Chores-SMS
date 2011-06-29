@@ -7,13 +7,11 @@ gem 'rails', '3.0.7'
 
 gem 'sqlite3'
 gem 'twiliolib'
-gem 'ice_cube'
 gem 'haml'
 gem 'sass'
 gem 'whenever'
 gem 'heroku'
 gem 'rake', '0.8.7'
-gem 'yaml_db'
 gem 'taps'
 
 # Use unicorn as the web server
