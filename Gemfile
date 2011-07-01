@@ -13,6 +13,8 @@ gem 'whenever'
 gem 'heroku'
 gem 'rake', '0.8.7'
 gem 'taps'
+gem 'rspec-rails', '2.6.1'
+
 
 # Use unicorn as the web server
 # gem 'unicorn'

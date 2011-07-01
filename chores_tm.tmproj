@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>Sites/ror/chores_sms/config/schedule.rb</string>
+	<string>Gemfile</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -52,13 +52,17 @@
 			<key>filename</key>
 			<string>Gemfile</string>
 			<key>lastUsed</key>
-			<date>2011-06-26T20:44:25Z</date>
+			<date>2011-06-30T20:10:42Z</date>
+			<key>selected</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>Gemfile.lock</string>
 		</dict>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>lib</string>
 			<key>regexFolderFilter</key>
@@ -73,12 +77,12 @@
 			<string>log</string>
 			<key>regexFolderFilter</key>
 			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
-			<key>selected</key>
-			<true/>
 			<key>sourceDirectory</key>
 			<string>log</string>
 		</dict>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>public</string>
 			<key>regexFolderFilter</key>
@@ -131,21 +135,21 @@
 	<integer>179</integer>
 	<key>metaData</key>
 	<dict>
-		<key>Sites/ror/chores_sms/Gemfile</key>
+		<key>Gemfile</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>14</integer>
+				<integer>26</integer>
 				<key>line</key>
-				<integer>12</integer>
+				<integer>15</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Sites/ror/chores_sms/app/controllers/application_controller.rb</key>
+		<key>app/controllers/application_controller.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -159,7 +163,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Sites/ror/chores_sms/app/controllers/beeps_controller.rb</key>
+		<key>app/controllers/beeps_controller.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -173,35 +177,35 @@
 			<key>firstVisibleLine</key>
 			<integer>32</integer>
 		</dict>
-		<key>Sites/ror/chores_sms/app/controllers/users_controller.rb</key>
+		<key>app/controllers/users_controller.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>36</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>4</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Sites/ror/chores_sms/app/models/beep.rb</key>
+		<key>app/models/beep.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>31</integer>
+				<integer>24</integer>
 				<key>line</key>
-				<integer>5</integer>
+				<integer>25</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Sites/ror/chores_sms/app/models/chore.rb</key>
+		<key>app/models/chore.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -215,7 +219,7 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Sites/ror/chores_sms/app/models/user.rb</key>
+		<key>app/models/user.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -229,21 +233,77 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Sites/ror/chores_sms/app/views/users/index.html.erb</key>
+		<key>app/views/chores/_form.html.erb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>50</integer>
+				<integer>29</integer>
 				<key>line</key>
-				<integer>16</integer>
+				<integer>19</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Sites/ror/chores_sms/config/environment.rb</key>
+		<key>app/views/chores/edit.html.erb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>app/views/chores/index.html.erb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>5</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>app/views/layouts/application.html.erb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>30</integer>
+				<key>line</key>
+				<integer>4</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>app/views/users/index.html.erb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>14</integer>
+				<key>line</key>
+				<integer>1</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>config/environment.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -257,14 +317,142 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Sites/ror/chores_sms/config/schedule.rb</key>
+		<key>config/routes.rb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>61</integer>
+				<integer>27</integer>
+				<key>line</key>
+				<integer>7</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>config/schedule.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>31</integer>
 				<key>line</key>
 				<integer>25</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>11</integer>
+				<key>line</key>
+				<integer>25</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>31</integer>
+				<key>line</key>
+				<integer>25</integer>
+			</dict>
+		</dict>
+		<key>db/migrate/20110627022451_create_users.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>15</integer>
+				<key>line</key>
+				<integer>5</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>db/migrate/20110627022751_create_chores.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>15</integer>
+				<key>line</key>
+				<integer>4</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>db/migrate/20110629210550_add_description_to_chores.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>39</integer>
+				<key>line</key>
+				<integer>6</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>db/schema.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>0</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>lib/tasks/cron.rake</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>6</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>public/notindex.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>16</integer>
+				<key>line</key>
+				<integer>222</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>194</integer>
+		</dict>
+		<key>public/stylesheets/base.css</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>17</integer>
+				<key>line</key>
+				<integer>16</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -274,16 +462,28 @@
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>Sites/ror/chores_sms/app/models/beep.rb</string>
-		<string>Sites/ror/chores_sms/app/controllers/beeps_controller.rb</string>
-		<string>Sites/ror/chores_sms/config/environment.rb</string>
-		<string>Sites/ror/chores_sms/Gemfile</string>
-		<string>Sites/ror/chores_sms/config/schedule.rb</string>
-		<string>Sites/ror/chores_sms/app/models/user.rb</string>
-		<string>Sites/ror/chores_sms/app/views/users/index.html.erb</string>
-		<string>Sites/ror/chores_sms/app/models/chore.rb</string>
-		<string>Sites/ror/chores_sms/app/controllers/application_controller.rb</string>
-		<string>Sites/ror/chores_sms/app/controllers/users_controller.rb</string>
+		<string>app/models/beep.rb</string>
+		<string>app/controllers/beeps_controller.rb</string>
+		<string>config/environment.rb</string>
+		<string>config/routes.rb</string>
+		<string>public/notindex.html</string>
+		<string>app/views/layouts/application.html.erb</string>
+		<string>Gemfile</string>
+		<string>app/views/users/index.html.erb</string>
+		<string>public/stylesheets/base.css</string>
+		<string>db/schema.rb</string>
+		<string>config/schedule.rb</string>
+		<string>lib/tasks/cron.rake</string>
+		<string>db/migrate/20110629210550_add_description_to_chores.rb</string>
+		<string>app/views/chores/edit.html.erb</string>
+		<string>app/views/chores/_form.html.erb</string>
+		<string>app/views/chores/index.html.erb</string>
+		<string>db/migrate/20110627022751_create_chores.rb</string>
+		<string>db/migrate/20110627022451_create_users.rb</string>
+		<string>app/models/user.rb</string>
+		<string>app/models/chore.rb</string>
+		<string>app/controllers/application_controller.rb</string>
+		<string>app/controllers/users_controller.rb</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
